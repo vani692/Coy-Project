@@ -58,17 +58,5 @@ data/
   db.json                 created on first run
 ```
 
-## Design notes
 
-The look is a quiet, lamplit room rather than a generic dating feed. The palette
-is night ink and warm paper with one raspberry accent. Names are set in a serif
-and body text in the system sans. The app avoids all-caps labels and decorative
-gradients, and it honours `prefers-reduced-motion`.
 
-## Known limits
-
-- Storage is a single JSON file, which suits one user and a demo. A production
-  version would use a real database and real authentication.
-- Photos come from picsum.photos placeholders.
-- Buttons are always visible, so the app also works on touch devices with
-  taps as well as swipes.
