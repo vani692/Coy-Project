@@ -3,6 +3,8 @@
 A swipe-based "Discover" tab for Coy, built as a standalone Next.js app. It
 includes a blank Home tab, a Discover tab with swipe cards and a Matches tab.
 
+**Live Demo:**  https://coy-project.onrender.com/
+
 
 ## Features
 
