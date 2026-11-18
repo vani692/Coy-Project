@@ -1,24 +1,8 @@
 # Coy · Discover
 
 A swipe-based "Discover" tab for Coy, built as a standalone Next.js app. It
-includes a blank Home tab, a Discover tab with swipe cards, and a Matches tab.
+includes a blank Home tab, a Discover tab with swipe cards and a Matches tab.
 
-## Run it
-
-Requires Node.js 18.17 or newer.
-
-```bash
-npm install
-npm run dev        # http://localhost:3000
-```
-
-To clear all swipes and matches and reset the demo:
-
-```bash
-npm run reset
-```
-
-Swipes and matches are stored in `data/db.json`, so they survive page reloads.
 
 ## Features
 
